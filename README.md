@@ -118,7 +118,7 @@ array([[ 6.15721917,  3.42393052,  0.65418836, -0.6927128 ],
 ```
 创建正态分布数组
 ```
-samples = np.random.normal(4,4)
+samples = np.random.randn(4,4)
 samples
 ```
 
